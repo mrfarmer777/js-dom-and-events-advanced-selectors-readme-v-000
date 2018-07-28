@@ -12,5 +12,9 @@ function ninjaBabySelector(){
 }
 
 function divSelector(){
-  $("div.pics")
+  $("div.pics");
+}
+
+function firstListItem(){
+  $("li:first-child")
 }
