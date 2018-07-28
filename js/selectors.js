@@ -4,11 +4,11 @@ function paragraphSelector(){
 }
 
 function lastImageSelector(){
-  return $("img:last")[0];
+  return $("img:last");
 }
 
 function ninjaBabySelector(){
- return $("#baby-ninja")[0]; 
+ return $("#baby-ninja"); 
 }
 
 function divSelector(){
